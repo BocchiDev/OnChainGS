@@ -1,0 +1,19 @@
+{
+  "name": "OnChainGS",
+  "version": "1.0",
+  "type": "module",
+  "scripts": {
+    "preprocess": "node src/scripts/preprocess.js",
+    "encode": "node src/scripts/encode.js",
+    "decode": "node src/scripts/decode.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "ansi-colors": "^4.1.3",
+    "cli-progress": "^3.12.0",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21",
+    "spz-js": "^1.2.0"
+  }
+}
