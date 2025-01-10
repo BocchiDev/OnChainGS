@@ -1,10 +1,12 @@
 # OnChain Gaussian Splatting
-[[Website]](https://onchaings.xyz/) 
-
 A toolkit for processing Gaussian Splatting models (.ply). 
 
 This project enables splitting large GS models into blockchain-compatible chunks and reassembling them for rendering.
 
+![teaser](./assets/teaser.gif)
+
+
+[[Website]](https://onchaings.xyz/) 
 
 ## Prerequisites
 - Node.js 
